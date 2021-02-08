@@ -5,7 +5,7 @@ INTRODUCTION :
 In this project, I have built various model of the ‘CARBON DIOXIDE (CO2) LEVELS IN CANADA’ dataset which contains various information of the vehicles that are responsible for emitting CO2 levels. This dataset captures the details of how CO2 emissions by a vehicle can vary with the different features. The dataset has been taken from Canada Government official open data website. This is a compiled version. This contains data over a period of 7 years.
 Canadians top the chart with cars that emit an average 206 grams of CO2 (gCO2) per kilometer. That's just from the fuel used to move them around. It's roughly equal to 8.7 liters of gasoline per 100 kilometers. American cars are only slightly less climate polluting.
 
-DATASET EXPLORATION : 
+DATASET EXPLORATION  : 
 The foremost step to begin with the journey of analysis of data is to explore the data then various analysis and visualization methods and information acquisition will be done with Python. This dataset was explored using various inbuilt function like info (), shape (), unique () to know the variable/ column names, values and observations in the dataset. This gave us a quick insight into the dataset. Accessing the column names gave a quick idea as from where the analysis should be start.
 
 Features : 
